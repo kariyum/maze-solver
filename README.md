@@ -8,3 +8,5 @@ To find the path between two assinged nodes, two approaches were considered. A b
 This approach prioritizes left -> forward -> right -> backward. Notice here the terms used, left forward right backward not north and so on. It is because the algorithm takes into account the direction that it is facing.
 ### Second heuristic approach
 Best first approach is implemented this time. It computes the flying distance between its current position and the goal position.  
+### Here's a visualization of an example
+![](output.gif)
